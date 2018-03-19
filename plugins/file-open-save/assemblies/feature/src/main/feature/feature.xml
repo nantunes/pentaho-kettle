@@ -1,9 +1,10 @@
 <features name="${project.artifactId}-repo" xmlns="http://karaf.apache.org/xmlns/features/v1.2.1">
+  <repository>mvn:org.pentaho/pentaho-requirejs-manager/${project.version}/xml/features</repository>
 
   <feature name="${project.artifactId}" version="${project.version}">
 
     <feature version="${cxf.karaf.version}">cxf-jaxrs</feature>
-    <feature>pentaho-requirejs-osgi-manager</feature>
+    <feature>pentaho-requirejs-manager</feature>
     <feature>pentaho-deployers</feature>
 
     <feature>pentaho-i18n</feature>

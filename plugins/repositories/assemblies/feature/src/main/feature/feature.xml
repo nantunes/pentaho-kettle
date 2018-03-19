@@ -1,8 +1,9 @@
 <features name="${project.artifactId}-repo" xmlns="http://karaf.apache.org/xmlns/features/v1.2.1">
+  <repository>mvn:org.pentaho/pentaho-requirejs-manager/${project.version}/xml/features</repository>
 
   <feature name="${project.artifactId}" version="${project.version}">
     <feature>kar</feature>
-    <feature>pentaho-requirejs-osgi-manager</feature>
+    <feature>pentaho-requirejs-manager</feature>
 
     <!-- START client side dependencies -->
     <bundle>pentaho-webjars:mvn:org.webjars.bower/angular/${angular.version}</bundle>
