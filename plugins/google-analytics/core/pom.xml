@@ -29,8 +29,8 @@
     <timestamp>${maven.build.timestamp}</timestamp>
     <build.description>${project.description}</build.description>
     <maven.build.timestamp.format>yyyy/MM/dd hh:mm</maven.build.timestamp.format>
-    <slf4j-api.version>1.7.7</slf4j-api.version>
-    <slf4j-log4j12.version>1.7.7</slf4j-log4j12.version>
+    <slf4j-api.version>1.7.12</slf4j-api.version>
+    <slf4j-log4j12.version>1.7.12</slf4j-log4j12.version>
   </properties>
 
   <dependencies>

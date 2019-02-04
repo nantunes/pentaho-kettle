@@ -17,7 +17,7 @@
   <name>Pentaho Streaming Plugin Feature</name>
 
   <properties>
-    <karaf-maven-plugin.version>3.0.3</karaf-maven-plugin.version>
+    <karaf-maven-plugin.version>4.2.2</karaf-maven-plugin.version>
     <bndlib.version>2.4.0</bndlib.version>
     <artemis.version>2.5.0</artemis.version>
   </properties>

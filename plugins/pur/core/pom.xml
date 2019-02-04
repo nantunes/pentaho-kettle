@@ -24,8 +24,8 @@
     <pentaho-json.version>8.3.0.0-SNAPSHOT</pentaho-json.version>
 
     <!-- Third party dependencies -->
-    <slf4j-api.version>1.7.7</slf4j-api.version>
-    <slf4j-log4j12.version>1.7.7</slf4j-log4j12.version>
+    <slf4j-api.version>1.7.12</slf4j-api.version>
+    <slf4j-log4j12.version>1.7.12</slf4j-log4j12.version>
     <webservices-api.version>2.3.1</webservices-api.version>
     <webservices-rt.version>2.3.1</webservices-rt.version>
     <servlet-api.version>2.5</servlet-api.version>

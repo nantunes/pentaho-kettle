@@ -24,7 +24,7 @@
 	</licenses>
 
 	<properties>
-		<karaf-maven-plugin.version>3.0.3</karaf-maven-plugin.version>
+		<karaf-maven-plugin.version>4.2.2</karaf-maven-plugin.version>
 	</properties>
 
 	<modules>
