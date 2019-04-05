@@ -16,7 +16,7 @@
   </parent>
 
   <properties>
-    <angular.version>1.5.8</angular.version>
+    <angular.version>1.7.8</angular.version>
     <angular-route.version>${angular.version}</angular-route.version>
     <angular-sanitize.version>${angular.version}</angular-sanitize.version>
     <angular-animate.version>${angular.version}</angular-animate.version>
